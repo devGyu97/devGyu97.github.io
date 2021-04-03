@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://devgyu97.github.io/sitemap.xml
