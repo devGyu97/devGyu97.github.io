@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "devGyu World!"
+title                    : "devGyu World"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GyuSeon Jo"
-description              : "This is DevGyu's website."
+description              : "This is DevGyu's website"
 url                      : "https://devGyu97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
