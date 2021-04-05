@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "Java로 구현한 3가지 GUI Games"
+categories: java
+tags: GUI Game
+---
+
 # Java Multiple Games
 
 
