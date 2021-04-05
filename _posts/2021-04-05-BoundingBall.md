@@ -1,7 +1,8 @@
 ---
 layout: single
 title:  "인터랙티브 웹으로 구현한 BoundingBall "
-tags: etc
+categories: web
+tags: interactive
 ---
 
 # BoundingBall
