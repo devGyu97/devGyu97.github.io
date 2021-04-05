@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "인터랙티브 웹으로 구현한 BoundingBall "
+tags: etc
+---
+
 # BoundingBall
 
 인터랙티브 웹 페이지 만들기를 실습한 것이다.
