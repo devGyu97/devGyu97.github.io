@@ -20,7 +20,7 @@ title                    : "devGyu World"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GyuSeon Jo"
-description              : "This is DevGyu's website"
+description              : "Hello devGyu's world!"
 url                      : "https://devGyu97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
