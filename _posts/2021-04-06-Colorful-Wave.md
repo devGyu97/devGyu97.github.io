@@ -8,7 +8,7 @@ tags: interactive
 # Colorful Wave
 
 인터랙티브 웹 페이지 만들기를 실습한 것이다.
-<br>페이지 내의 임의의 좌표에서부터 공이 되고 이동하면서 경계, 혹은 중간에 위치한 블록에 부딪히면 방향을 전환한다.
+<br>뷰포인트의 height 값 가운데에 여러개의 점을 생성한 뒤 각각의 점의 height를 임의로 조정한다. 이후 각각의 점을 서로 곡선으로 연결하면 사이트와 같은 물결 모양이 완성된다. 
 
 <br>[ColorfulWave >>](https://devgyu97.github.io/ColorfulWave/)
 
