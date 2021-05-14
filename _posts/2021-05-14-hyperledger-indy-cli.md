@@ -92,3 +92,12 @@ pool을 생성한 뒤 connect와 did use 까지의 명령어가 정상적으로 
 
 
 
+이외의 명령어는 아래에 기술한다.
+
+
+
+## 참고
+
+- [Indy Cli : 더 많은 명령어 확인 가능](https://hyperledger-indy.readthedocs.io/projects/sdk/en/latest/docs/design/001-cli/README.html)
+- [hyperledger indy](https://www.hyperledger.org/use/hyperledger-indy)
+
