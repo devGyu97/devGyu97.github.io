@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "hyper ledger indy cli 사용해보기"
+title:  "Hyper ledger indy cli 사용해보기"
 categories: hyperledger, indy
 tags: indy, indy-cli
 ---
