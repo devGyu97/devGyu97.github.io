@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Hyperledger indy-cli 사용해보기"
-categories: hyperledger, indy
-tags: indy, indy-cli
+categories: hyperledger indy
+tags: indy indy-cli
 ---
 
 # Indy-Cli 실행하기
