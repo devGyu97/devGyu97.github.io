@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Hyperledger indy-cli 파이썬으로 사용해보기"
-categories: hyperledger, indy
+categories: hyperledger indy
 
 tags: indy
 
